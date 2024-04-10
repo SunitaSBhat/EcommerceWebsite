@@ -1,0 +1,17 @@
+.leftData{
+    display: flex;
+    flex-direction: row;
+}
+.leftData p{
+    margin:14px 25px;
+}
+.nav_data{
+    display: flex;
+    flex-direction: row;
+}
+.new_nav{
+    background-color: #232e2e;
+    ;
+    height: 45px;
+    
+}

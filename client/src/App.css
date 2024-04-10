@@ -1,0 +1,12 @@
+body{
+  background-color: #ffe4c480;
+}
+.center_image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center_image img{
+  width:1000px;
+  height: 300px;
+}

@@ -1,0 +1,28 @@
+.prod{
+    color:black;
+    margin:12px 0px;
+    background-color: white;
+    font-weight: bold;
+   
+}
+.upper_one{
+    display: flex;
+    flex-direction: row;
+}
+.upper_one h2{
+    margin-right: 1100px;
+    margin-left: 12px;
+}
+.buton{
+    width:100px;
+    height: 45px;
+    background-color:#ffe4c480;
+    border-radius: 12px 12px;
+    margin-top: 20px;
+    border:2px solid black;
+    font-weight: bold;
+}
+.product_img img{
+    width:200px;
+    height: 200px;
+}

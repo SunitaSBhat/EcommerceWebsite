@@ -1,0 +1,39 @@
+body{
+    background-color: #a08daa;
+     color:white;
+ }
+ .userData{
+     display: flex;
+     flex-direction: column;
+     border: 2px solid black;
+     background-color: #000000c4;
+     padding:12px 12px;
+     width: 367px;
+     height: 449px;
+ }
+ .form{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin:178px 0px;
+   
+ }
+ .form label{
+     margin:21px 0px;
+     font-size: 20px;
+ }
+ .form input{
+     background-color:white;
+     height:35px;
+     width:357px;
+     border: 2px solid white;
+ }
+ #btn{
+     margin-top:40px;
+     height: 45px;
+     background-color: #ffe4c480;
+     color:black;
+     font-size: 20px;
+     border: 2px solid white;
+ 
+ }
